@@ -1,4 +1,4 @@
-
+NYC_Network_Analysis.pdf contains the LateX file outlining the project goals and outcomes. 
 
 Graphs.ipynb contains the code used to perform graph analysis, authored by Lucas Irwin. First, we read in the data as csv files using Pandas. We then create a custom data set by dropping all rows apart from the names of the officers and the complaint IDs. We then drop all N/A rows. By importing the networkx library, we create an undirected graph. We then create a graph with officers as nodes and add an edge between every officer who is involved in the same complaint, resulting in a graph of 35760 nodes and 71425 edges. 
 
