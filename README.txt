@@ -8,4 +8,4 @@ Having created the graph, we run several centrality measures on the graph (Degre
 
 To extend our results, we also studied the connectivity of specific officers accused of certain allegations (e.g those classified as "punch/kick", "black", "hispanic" etc). 
 
-<b> Pagerank.png </b>, <b> Degree.png </b> and <b> Eigenvector.png </b> contain images of the graphs of the 100 officers sorted by highest pagerank, degree and eigenvector centrality scores respectively. 
+<b> Pagerank.png, Degree.png </b> and <b> Eigenvector.png </b> contain images of the graphs of the 100 officers sorted by highest pagerank, degree and eigenvector centrality scores respectively. 
